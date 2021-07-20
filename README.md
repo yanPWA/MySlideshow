@@ -1,7 +1,12 @@
 # MySlideshow
 
 ViewPager2を使って指定された画像のスライドショーを行うアプリ
+
 スライド間隔はtimer関数を使用
+
 transformPageをオーバーライドし、ページ切り替え時のアニメ-ションを設定
+
 Handlerクラスを使ってメインスレッドを操作
+
 スライドショー実行中はMediaPlayerクラスを使って音楽を流す
+
